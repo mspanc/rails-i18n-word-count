@@ -2,6 +2,8 @@
 
 Simple Rails I18n gem that helps in counting amount of words stored in locales for a single purpose of estimating translation cost.
 
+It is extremely simple. It counts only Strings - Arrays etc. will be omitted.
+
 ## Installation
 
 Add this line to your application's Gemfile:

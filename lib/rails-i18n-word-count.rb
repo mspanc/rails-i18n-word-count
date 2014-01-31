@@ -11,7 +11,7 @@ module I18n
       hash.each do |k,v|
         if v.is_a? Hash
           r << count_hash(v)
-        else
+        elsif v.is_a? String
           r << v
         end
       end
