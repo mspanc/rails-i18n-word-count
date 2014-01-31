@@ -23,7 +23,6 @@ in the locale tree `static_pages.homepage.*` of the current locale:
 
     I18n::WordCount.word_count("static_pages.homepage", 3)
 
-
 ## Contributing
 
 1. Fork it
@@ -31,3 +30,7 @@ in the locale tree `static_pages.homepage.*` of the current locale:
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+## License
+
+MIT
